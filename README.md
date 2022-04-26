@@ -16,6 +16,7 @@ Database:
 
 Frameworks:
 
+![image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
@@ -27,7 +28,6 @@ Cloud:
 
 I’m currently learning:
 
-![image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://user-images.githubusercontent.com/99683772/157469150-17c47738-5f86-4af1-8f1f-ba71b0b937f3.png)
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
