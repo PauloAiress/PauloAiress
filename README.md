@@ -1,6 +1,6 @@
 Hi there, I’m @PauloAiress 👋 from Belo Horizonte - Brazil.
 
-I'm a MBA student for software engineering who majored in industrial engineering,  in a career-change moment.
+I'm a senior Business Intelligence Analyst, who majored in industrial engineering and MBA student for software engineering.
 
 Languages I know:
 
