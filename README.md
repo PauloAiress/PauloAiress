@@ -31,6 +31,7 @@ Cloud:
 I’m currently learning:
 
 ![image](https://user-images.githubusercontent.com/99683772/185198843-c4e37f5a-8977-4351-a5f0-86c47b7e62d4.png)
+![image](https://user-images.githubusercontent.com/99683772/185199307-9accd002-cb64-4b77-98de-7f2924fc26af.png)
 ![image](https://user-images.githubusercontent.com/99683772/157469150-17c47738-5f86-4af1-8f1f-ba71b0b937f3.png)
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
